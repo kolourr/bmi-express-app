@@ -23,7 +23,11 @@ clear: both;
 
 body {
   font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
-
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 
@@ -34,8 +38,7 @@ body {
   font-size: 2.5rem;
   font-weight: 900;
   font-style: bold;
- 
- 
+
  
 }
 
@@ -45,7 +48,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .metric, .standard{
