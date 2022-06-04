@@ -1,10 +1,10 @@
 # BMI-EXPRESS-APP
 Reworked the Simple BMI Calculator using Express
-<center>
+<div style="text-align:center">
 
 [![BMI Express APP](./images/BMI-Calculator.png)](https://bmi-express-app.herokuapp.com/)
 
- </center>
+ </div>
 
 ## How It's Made:
 
