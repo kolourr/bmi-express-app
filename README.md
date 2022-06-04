@@ -2,7 +2,7 @@
 Reworked the Simple BMI Calculator using Express
 <center>
 
-![BMI Express APP](./images/BMI-Calculator.png)
+[![BMI Express APP](./images/BMI-Calculator.png)](https://bmi-express-app.herokuapp.com/)
 
  </center>
 
@@ -15,5 +15,5 @@ This project was reworked using the express framework and hosted on Heroku
 
 ## Use the Webapp
 
-You can access this webapp by clicking here: BMI Calculator 
+You can access this webapp by clicking here: [BMI Calculator using Node.js and Express](http://localhost:8000/) 
 
